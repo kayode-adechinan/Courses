@@ -1,0 +1,33 @@
+client serveur
+
+peer-to-peer
+
+lan
+
+man
+
+wan
+
+internet
+
+intranet
+
+extranet
+
+peripheriques finaux
+
+peripheriques intermediaires
+
+support
+
+fiabilites d'un reseau
+
+
+securite (physique, architectural, logique)
+
+
+fiabilite
+
+redondance
+
+qualite de service
